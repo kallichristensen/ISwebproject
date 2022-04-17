@@ -1,4 +1,6 @@
-
+.background {
+    background-color: ivory;
+}
 .header {
     top: 0px;
     left: 0px;
