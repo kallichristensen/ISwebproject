@@ -1,0 +1,50 @@
+.float {
+    float: right;
+}
+.background {
+    background-image: url('../images/img/background4.jpg');
+}
+.fontcolor {
+    color: rgb(255, 255, 255);
+}
+.fontstyle {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.header {
+    text-align: center;
+}
+a {
+    color: rgb(0, 27, 115);
+    text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+.resumediv {
+    background-color: ivory;
+
+}
+
+.videoalign {
+    margin: auto;
+    width: 50%;
+    padding-bottom: 100px;
+}
+.homeimg {
+    float: right;
+    width: 50%;
+}
+.aboutimg {
+    height: 350px;
+
+}
+.imgalign {
+    margin: auto;
+    width: 73%;
+}
+.myfooter {
+    background-color: rgb(10, 133, 86) ;
+    color: white ;
+}
+#linkoverride {
+    color: white;
+}

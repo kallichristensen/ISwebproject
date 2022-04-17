@@ -1,0 +1,42 @@
+.common {
+    position: absolute;
+}
+.header {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 80px;
+    z-index: 1;
+    background-color: rgb(10, 133, 86);
+    color: ivory;
+    padding: 20px;
+}
+.subheader {
+    float: right;
+    padding: 20px;
+}
+.mainbody {
+    top: 115px;
+    bottom: 40px;
+    left: 5px;
+    right: 5px;
+}
+
+
+.footer {
+    background-color: rgb(10, 133, 86);
+    bottom: 0px;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    font-size: 15px;
+    color: ivory;
+    text-align: center;
+    position: fixed
+}
+
+a {
+    color: ivory;
+    text-decoration: none;
+}
+a:hover {text-decoration: underline;}
